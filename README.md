@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## The Hunt
 
-You can use the [editor on GitHub](https://github.com/jayupan/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A software project done during my senior year with fellow classmates. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Objective 
+
+Make a service that would aggregate jobs and display their salaries, locations, and job titles within the cities of Chicago, Los Angeles, and New York City.
 
 ### Markdown
 

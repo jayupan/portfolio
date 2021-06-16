@@ -1,22 +1,31 @@
-# Introduction
-The Hunt is a job searching tool that searches multiple career-oriented websites in order to aggregate many jobs onto a single web page.
+# The Hunt
 
-# Installation
-## Python Packages
-Use the included requirements.txt to install the required packages through pip, like so:
+A software project done during my senior year with fellow classmates. 
 
-```pip install -r requirements.txt``` or ```pip3 install -r requirements.txt```
-## Google API Key
-This application requires the addition of a Google Maps API Key (details can be found [here](https://developers.google.com/maps/documentation/javascript/get-api-key)). 
+## Objective 
 
-Once the API key is obtained, paste it into API_KEY.txt and it will be used.
+Make a service that would aggregate jobs and display their salaries, locations, and job titles within the cities of Chicago, Los Angeles, and New York City.
 
+### Product
 
-# Usage
-Launch the program by running app.py in the root directory of the repository with Python 3.
- 
-```python app.py``` or ``` python3 app.py```
+<a href="https://lh3.googleusercontent.com/pK-U089gADsw5anHL7Xy2Jqq_owFenlSdTwwmi4HK3KBxxQlBj7Kh8jdyGrvqszTm8_uYfu9Mlu60VfXdCyWadNrioZBkC1EJ8LqH1Fb5iISGiPI4ihA4vXF5u-SUt0HiyIrZh3HtA=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pK-U089gADsw5anHL7Xy2Jqq_owFenlSdTwwmi4HK3KBxxQlBj7Kh8jdyGrvqszTm8_uYfu9Mlu60VfXdCyWadNrioZBkC1EJ8LqH1Fb5iISGiPI4ihA4vXF5u-SUt0HiyIrZh3HtA=w519-h315-p-k" /> </a>
 
-A browser window should then automatically open and show the application.
+The user inputs their desired keywords, city, and radius from city centre in miles of their choice. In this example, I will be inputting the keyword "Software". The drop down menu allows the options of Chicago, Los Angeles, or New York City. 
 
-Input the desired search terms, city, and maximum distance. Then, click "Find a Job Now" to view the results. 
+<a href="https://lh3.googleusercontent.com/JDZNdT0DmZ_-Q5IcJVQqwLzWt5T9WXu9dHKWIU5UNZeCMwYE8HXE3prG-vR-wEz0EcnItPGhTqwzVDGJkibZkdtVpftljC8F-uGZZ5cpLGcl_LllUOgk5BnXXpi4eZkqAme4jcEwqw=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/JDZNdT0DmZ_-Q5IcJVQqwLzWt5T9WXu9dHKWIU5UNZeCMwYE8HXE3prG-vR-wEz0EcnItPGhTqwzVDGJkibZkdtVpftljC8F-uGZZ5cpLGcl_LllUOgk5BnXXpi4eZkqAme4jcEwqw=w600-h315-p-k" /> </a> 
+
+On the left, a Google Maps visual shows the location of choices highlighted by your keyword. Due to monetary needs, this cannot be shown correctly but the functionality is there. To the right of the map, it shows a list of the jobs starting from the ones closest to the city centre in ascending order. Clicking on the job title will take the user to the job's webpage. 
+
+<a href="https://lh3.googleusercontent.com/BRa7KxIXHEKdGZ106_hcK2RX63zLh-N_v7BBmXhGAUHKd1dF6hcgMtVKAIV4KMDBwOAl9eX7smW8U_BUVgvt60f-lzsMi2uHrSqNFUL1TIXu3RoyMMpmHcRPVP2E89lj6hCN4fkB0A=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/BRa7KxIXHEKdGZ106_hcK2RX63zLh-N_v7BBmXhGAUHKd1dF6hcgMtVKAIV4KMDBwOAl9eX7smW8U_BUVgvt60f-lzsMi2uHrSqNFUL1TIXu3RoyMMpmHcRPVP2E89lj6hCN4fkB0A=w600-h315-p-k" /> </a>
+
+This is where the user is redirected if they click the first result.
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jayupan/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

@@ -1,0 +1,6 @@
+six==1.12.0
+tqdm
+flask
+xmltodict
+bs4
+lxml

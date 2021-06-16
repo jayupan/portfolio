@@ -8,7 +8,7 @@ Make a service that would aggregate jobs and display their salaries, locations, 
 
 ### Product
 
-<img src="https://photos.google.com/photo/AF1QipORyUvefRz_P9AdDqSq-ADgt8AjQsnvQMjL3p3_" alt="Map and Results">
+<a href="https://lh3.googleusercontent.com/pK-U089gADsw5anHL7Xy2Jqq_owFenlSdTwwmi4HK3KBxxQlBj7Kh8jdyGrvqszTm8_uYfu9Mlu60VfXdCyWadNrioZBkC1EJ8LqH1Fb5iISGiPI4ihA4vXF5u-SUt0HiyIrZh3HtA=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pK-U089gADsw5anHL7Xy2Jqq_owFenlSdTwwmi4HK3KBxxQlBj7Kh8jdyGrvqszTm8_uYfu9Mlu60VfXdCyWadNrioZBkC1EJ8LqH1Fb5iISGiPI4ihA4vXF5u-SUt0HiyIrZh3HtA=w519-h315-p-k" /> </a>
 
 ```markdown
 Syntax highlighted code block

@@ -1,14 +1,14 @@
-## The Hunt
+# The Hunt
 
 A software project done during my senior year with fellow classmates. 
 
-# Objective 
+## Objective 
 
 Make a service that would aggregate jobs and display their salaries, locations, and job titles within the cities of Chicago, Los Angeles, and New York City.
 
-### Markdown
+### Product
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="https://photos.google.com/photo/AF1QipORyUvefRz_P9AdDqSq-ADgt8AjQsnvQMjL3p3_" alt="Map and Results">
 
 ```markdown
 Syntax highlighted code block

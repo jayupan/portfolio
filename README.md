@@ -18,14 +18,4 @@ On the left, a Google Maps visual shows the location of choices highlighted by y
 
 <a href="https://lh3.googleusercontent.com/BRa7KxIXHEKdGZ106_hcK2RX63zLh-N_v7BBmXhGAUHKd1dF6hcgMtVKAIV4KMDBwOAl9eX7smW8U_BUVgvt60f-lzsMi2uHrSqNFUL1TIXu3RoyMMpmHcRPVP2E89lj6hCN4fkB0A=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/BRa7KxIXHEKdGZ106_hcK2RX63zLh-N_v7BBmXhGAUHKd1dF6hcgMtVKAIV4KMDBwOAl9eX7smW8U_BUVgvt60f-lzsMi2uHrSqNFUL1TIXu3RoyMMpmHcRPVP2E89lj6hCN4fkB0A=w600-h315-p-k" /> </a>
 
-This is where the user is redirected if they click the first result.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jayupan/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+E-mail: josefayupan@gmail.com
